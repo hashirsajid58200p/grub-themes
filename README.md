@@ -7,6 +7,9 @@
 ## GTA VI Poster II
 ![GTA VI Poster II](GTA%20VI/GTA%20VI%20Poster%20II/preview.jpg)
 
+## Minions
+![Minions](Minions/preview.jpg)
+
 ## Star Wars Posters
 ![Star Wars Posters](Star%20Wars%20Posters/preview.jpg)
 
