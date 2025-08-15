@@ -7,6 +7,15 @@
 ## GTA VI Poster II
 ![GTA VI Poster II](GTA%20VI/GTA%20VI%20Poster%20II/preview.jpg)
 
+## Goku Drinking Coffee
+![Goku Drinking Coffee](Goku/Goku%20Drinking%20Coffee/preview.jpg)
+
+## Goku UI
+![Goku UI](Goku/Goku%20UI/preview.jpg)
+
+## Goku and Vegeta
+![Goku and Vegeta](Goku/Goku%20and%20Vegeta/preview.jpg)
+
 ## Minions
 ![Minions](Minions/preview.jpg)
 
