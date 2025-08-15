@@ -19,14 +19,14 @@
 ## Goku and Vegeta
 ![Goku and Vegeta](Goku/Goku%20and%20Vegeta/preview.jpg)
 
-## The Nun
-![The Nun](The Nun/preview.jpg)
-
 ## Minions
 ![Minions](Minions/preview.jpg)
 
 ## Star Wars Posters
 ![Star Wars Posters](Star%20Wars%20Posters/preview.jpg)
+
+## The Nun
+![The Nun](The%20Nun/preview.jpg)
 
 ## Windows xp Bliss
 ![Windows xp Bliss](Windows%20xp%20Bliss/preview.jpg)
